@@ -10,6 +10,7 @@ Extract structured data from [xing.com](https://xing.com) — structured job lis
 
 
 
+
 **Search with filters** — Search by keyword and location.
 
 **Detail enrichment** — Fetch full job descriptions, salary data, contact information for each listing.
@@ -19,6 +20,7 @@ Extract structured data from [xing.com](https://xing.com) — structured job lis
 ---
 
 ## Use cases
+
 
 
 
@@ -80,6 +82,7 @@ Each listing gets a content hash. On subsequent runs, only new or changed listin
 ---
 
 ## Related products by Black Falcon Data
+
 
 
 
